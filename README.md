@@ -8,3 +8,9 @@ http://bit.ly/3Zfh7kD
 Lecture 7A
 Time & Space Complexity
 http://bit.ly/461clJD
+
+Lecture 6
+Functions
+http://bit.ly/3Z9zVSh
+
+
