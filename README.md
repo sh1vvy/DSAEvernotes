@@ -3,7 +3,7 @@ A set of Notes and Evernotes (Links) containing resources for the DSA Supreme 2.
 
 Lecture 7
 Arrays - Level 1
-bit.ly/3Zfh7kD
+http://bit.ly/3Zfh7kD
 
 Lecture 7A
 Time & Space Complexity
