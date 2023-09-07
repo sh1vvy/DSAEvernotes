@@ -13,4 +13,6 @@ Lecture 6
 Functions
 http://bit.ly/3Z9zVSh
 
-
+Lecture 5
+Continuing with Patterns
+http://bit.ly/3r2I2n4
