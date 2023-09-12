@@ -1,6 +1,10 @@
 # DSAEvernotes
 A set of Notes and Evernotes (Links) containing resources for the DSA Supreme 2.0 Batch Topic Wise
 
+Lecture 9A
+Vector STL
+https://bit.ly/3EBlgpz
+
 Lecture 8
 Arrays - Level 2
 https://bit.ly/3P36sEQ
