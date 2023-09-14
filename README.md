@@ -5,6 +5,10 @@ Lecture 9A
 Vector STL
 https://bit.ly/3EBlgpz
 
+Lecture 9
+Arrays - Level 3
+https://bit.ly/3sZcizH
+
 Lecture 8
 Arrays - Level 2
 https://bit.ly/3P36sEQ
